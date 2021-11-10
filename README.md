@@ -23,13 +23,21 @@ Output: 0,1,NORTH
 ** to **
 
 PLACE
+
 0
+
 0
+
 NORTH
+
 MOVE
+
 REPORT
+
 Pacman is facing : NORTH
+
 Pacmans X is : 3
+
 Pacmans Y is : 3
 
 # Running the code
