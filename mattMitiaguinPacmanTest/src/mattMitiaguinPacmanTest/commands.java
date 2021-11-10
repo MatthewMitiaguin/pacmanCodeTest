@@ -112,7 +112,6 @@ public class commands {
 					System.out.println("Pacman hit the wall!");
 					System.out.println("Check the REPORT you may have placed him outside the grid!");
 					return false;
-					
 				}
 			}
 			if(movement.equals("SOUTH")) {
