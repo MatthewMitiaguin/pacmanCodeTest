@@ -11,7 +11,9 @@ Unit tests are located [here](https://github.com/MatthewMitiaguin/pacmanCodeTest
 
 I used the same test data given in test, however to input it I did it slightly differently.
 
-Please view "TestCase1.png" and "TestCase2&3.png" screenshots as examples of how I input the code.
+Please view "test1.png" and "TEST2AND3.png" screenshots as examples of how I input the code.
+
+These files also show the correct input and output from the examples given in the original test
 
 The initial and secondary place is done over three lines instead of the one line
 
