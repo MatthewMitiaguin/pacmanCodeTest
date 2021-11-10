@@ -9,13 +9,6 @@ Please view "TestCase1.png" and "TestCase2&3.png" screenshots as examples of how
 
 The initial and secondary place is done over three lines instead of the one line
 
-e.g.
-
-0
-0
-NORTH
-
-However every other command works the same - 1 command per line
 e.g. The first test case turns from
 
 a)
