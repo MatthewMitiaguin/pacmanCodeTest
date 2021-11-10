@@ -9,26 +9,41 @@ Please view "TestCase1.png" and "TestCase2&3.png" screenshots as examples of how
 
 The initial and secondary place is done over three lines instead of the one line
 
-e.g. The first test case turns from
+e.g. The test case turns from
 
-a)
-PLACE 0,0,NORTH
+c)
+
+PLACE 1,2,EAST
+
+MOVE
+
+MOVE
+
+LEFT
 
 MOVE
 
 REPORT
 
-Output: 0,1,NORTH
+Output: 3,3,NORTH
 
-** to **
+
+## to ##
+
 
 PLACE
 
-0
+1
 
-0
+2
 
-NORTH
+EAST
+
+MOVE
+
+MOVE
+
+LEFT
 
 MOVE
 
