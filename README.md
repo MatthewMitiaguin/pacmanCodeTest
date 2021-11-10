@@ -1,5 +1,11 @@
 # Pacman Test IE - Matthew Mitiaguin
 
+## Code files
+
+Code files are located in [here](https://github.com/MatthewMitiaguin/pacmanCodeTest/blob/main/mattMitiaguinPacmanTest/src/mattMitiaguinPacmanTest/main.java) and [here](https://github.com/MatthewMitiaguin/pacmanCodeTest/blob/main/mattMitiaguinPacmanTest/src/mattMitiaguinPacmanTest/commands.java)
+
+## Unit tests
+Unit tests are located [here](https://github.com/MatthewMitiaguin/pacmanCodeTest/blob/main/mattMitiaguinPacmanTest/src/mattMitiaguinPacmanTest/pacmanUnitTest.java)
 
 # Test Data
 
@@ -57,7 +63,3 @@ Pacmans Y is : 3
 
 # Running the code
 You will need to run this code in a Java IDE - I personally used Eclipse
-
-
-
-
