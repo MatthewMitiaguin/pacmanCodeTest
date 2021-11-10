@@ -17,7 +17,7 @@ public class main {
 		while(!initialPacmanPlace)
 		{
 			if(commands.pacmanInitialPlacement() == true) {
-				System.out.println("Enter next command e.g. MOVE, REPORT, PLACE or EXIT - must be caps");
+				System.out.println("Enter next command e.g. MOVE, REPORT, PLACE, LEFT, RIGHT, EXIT - must be caps");
 				initialPacmanPlace = true;		
 			}
 		}
@@ -27,7 +27,7 @@ public class main {
 			// getting commands from command line
 			Scanner in = new Scanner(System.in);
 			String s = in.nextLine();
-			System.out.println("Enter next command e.g. MOVE, REPORT, PLACE or EXIT - must be caps");
+			System.out.println("Enter next command e.g. MOVE, REPORT, PLACE, LEFT, RIGHT, EXIT - must be caps");
 			
 			if(s.equals("MOVE")) {
 				String facing = commands.pacmanFacingGet();
